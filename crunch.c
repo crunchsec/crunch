@@ -237,6 +237,7 @@
  *     Juan reports Freebsd x64, i386 and OSX Mountain Lion compiles and works
  *     perfectly. It should compile on the other Unix and Linux OSs but I don't
  *     don't have access to any of the those systems.  Please let me know.
+ *	Kontribusi jagad.
  */
 
 #include <assert.h>
